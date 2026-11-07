@@ -1,0 +1,22 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Streamlit Local Cache & Config
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
